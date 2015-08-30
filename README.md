@@ -1,5 +1,6 @@
 # rss-collection
 A collection of all the rss feeds that can be used via an ajax call.
+The json file can be found at [rss.json](http://prateekjadhwani.github.io/rss-collection/rss.json).
 
 ## Feed Sites
 
