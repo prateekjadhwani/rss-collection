@@ -1,5 +1,15 @@
 [
     {
+        "name": "Ars Technica",
+        "rss": "http://feeds.arstechnica.com/arstechnica/index",
+        "category": "technology"
+    },
+    {
+        "name": "Hackaday",
+        "rss": "https://hackaday.com/blog/feed/",
+        "category": "technology"
+    },
+    {
         "name": "Times of India",
         "rss": "http://dynamic.feedsportal.com/pf/555218/http://toi.timesofindia.indiatimes.com/rssfeedstopstories.cms",
         "category": "top"

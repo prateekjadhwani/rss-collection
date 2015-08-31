@@ -8,6 +8,8 @@ These are the currently available sites added to the *rss-collection*. Please fe
 
 | Name | Categories |
 |------|------------|
+| Ars Technica | Technology |
+| Hackaday | Technology |
 | Times Of India | Top Stories |
 | Wired | Top Categories, Business, Design, Science |
 | xkcd | Humor |
@@ -34,3 +36,4 @@ The categories covered currently are as follows
 | design | _needs description_ |
 | humor | Mostly comedy |
 | science | Feeds related to Science |
+| technology | Technology oriented feeds |
