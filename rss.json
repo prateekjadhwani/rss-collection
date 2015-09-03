@@ -46,13 +46,8 @@
     },
     {
         "name": "NYTimes",
-        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-        "category": "technology"
-    },
-    {
-        "name": "NYTimes",
-        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
-        "category": "sports"
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+        "category": "health"
     },
     {
         "name": "NYTimes",
@@ -61,8 +56,13 @@
     },
     {
         "name": "NYTimes",
-        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
-        "category": "health"
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+        "category": "sports"
+    },
+    {
+        "name": "NYTimes",
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "category": "technology"
     },
     {
         "name": "NYTimes",
