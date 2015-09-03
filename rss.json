@@ -38,5 +38,35 @@
         "name": "xkcd",
         "rss": "http://xkcd.com/rss.xml",
         "category": "humor"
+    },
+    {
+        "name": "NYTimes",
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "category": "business"
+    },
+    {
+        "name": "NYTimes",
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "category": "technology"
+    },
+    {
+        "name": "NYTimes",
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+        "category": "sports"
+    },
+    {
+        "name": "NYTimes",
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+        "category": "science"
+    },
+    {
+        "name": "NYTimes",
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+        "category": "health"
+    },
+    {
+        "name": "NYTimes",
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+        "category": "travel"
     }
 ]
