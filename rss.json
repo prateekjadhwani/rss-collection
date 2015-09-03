@@ -10,6 +10,36 @@
         "category": "technology"
     },
     {
+        "name": "NYTimes",
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "category": "business"
+    },
+    {
+        "name": "NYTimes",
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+        "category": "health"
+    },
+    {
+        "name": "NYTimes",
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+        "category": "science"
+    },
+    {
+        "name": "NYTimes",
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+        "category": "sports"
+    },
+    {
+        "name": "NYTimes",
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "category": "technology"
+    },
+    {
+        "name": "NYTimes",
+        "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+        "category": "travel"
+    },
+    {
         "name": "Times of India",
         "rss": "http://dynamic.feedsportal.com/pf/555218/http://toi.timesofindia.indiatimes.com/rssfeedstopstories.cms",
         "category": "top"
