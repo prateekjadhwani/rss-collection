@@ -10,36 +10,6 @@
         "category": "technology"
     },
     {
-        "name": "Times of India",
-        "rss": "http://dynamic.feedsportal.com/pf/555218/http://toi.timesofindia.indiatimes.com/rssfeedstopstories.cms",
-        "category": "top"
-    },
-    {
-        "name": "Wired",
-        "rss": "http://feeds.wired.com/wired/index",
-        "category": "top"
-    },
-    {
-        "name": "Wired",
-        "rss": "http://www.wired.com/category/business/feed/",
-        "category": "business"
-    },
-    {
-        "name": "Wired",
-        "rss": "http://www.wired.com/category/design/feed/",
-        "category": "design"
-    },
-    {
-        "name": "Wired",
-        "rss": "http://www.wired.com/category/science/feed/",
-        "category": "science"
-    },
-    {
-        "name": "xkcd",
-        "rss": "http://xkcd.com/rss.xml",
-        "category": "humor"
-    },
-    {
         "name": "NYTimes",
         "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
         "category": "business"
@@ -68,5 +38,35 @@
         "name": "NYTimes",
         "rss": "http://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
         "category": "travel"
+    },
+    {
+        "name": "Times of India",
+        "rss": "http://dynamic.feedsportal.com/pf/555218/http://toi.timesofindia.indiatimes.com/rssfeedstopstories.cms",
+        "category": "top"
+    },
+    {
+        "name": "Wired",
+        "rss": "http://feeds.wired.com/wired/index",
+        "category": "top"
+    },
+    {
+        "name": "Wired",
+        "rss": "http://www.wired.com/category/business/feed/",
+        "category": "business"
+    },
+    {
+        "name": "Wired",
+        "rss": "http://www.wired.com/category/design/feed/",
+        "category": "design"
+    },
+    {
+        "name": "Wired",
+        "rss": "http://www.wired.com/category/science/feed/",
+        "category": "science"
+    },
+    {
+        "name": "xkcd",
+        "rss": "http://xkcd.com/rss.xml",
+        "category": "humor"
     }
 ]
