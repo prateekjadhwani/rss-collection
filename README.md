@@ -13,6 +13,7 @@ These are the currently available sites added to the *rss-collection*. Please fe
 | Times Of India | Top Stories |
 | Wired | Top Categories, Business, Design, Science |
 | xkcd | Humor |
+| NYTimes | Business, Technology, Sports, Science, Health, Travel |
 
 ## How to use
 
@@ -37,3 +38,7 @@ The categories covered currently are as follows
 | humor | Mostly comedy |
 | science | Feeds related to Science |
 | technology | Technology oriented feeds |
+| sports | Sports related feeds |
+| health | Health related feeds |
+| travel | Travel related feeds |
+
