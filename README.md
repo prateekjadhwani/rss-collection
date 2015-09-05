@@ -10,10 +10,10 @@ These are the currently available sites added to the *rss-collection*. Please fe
 |------|------------|
 | Ars Technica | Technology |
 | Hackaday | Technology |
+| NYTimes | Business, Technology, Sports, Science, Health, Travel |
 | Times Of India | Top Stories |
 | Wired | Top Categories, Business, Design, Science |
 | xkcd | Humor |
-| NYTimes | Business, Technology, Sports, Science, Health, Travel |
 
 ## How to use
 
@@ -35,10 +35,10 @@ The categories covered currently are as follows
 | top | The Top Stories rss feed |
 | business | Stories related to Business |
 | design | _needs description_ |
+| health | Health related feeds |
 | humor | Mostly comedy |
 | science | Feeds related to Science |
-| technology | Technology oriented feeds |
 | sports | Sports related feeds |
-| health | Health related feeds |
+| technology | Technology oriented feeds |
 | travel | Travel related feeds |
 
